@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383158262800",
+    "firebase_url": "https://teknik-radiografi.firebaseio.com",
+    "project_id": "teknik-radiografi",
+    "storage_bucket": "teknik-radiografi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383158262800:android:7dc32e24d9b6372805be95",
+        "android_client_info": {
+          "package_name": "com.nofri.teknikradiografi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383158262800-qt614ljuf1f00mi3uo39oe974iacgnl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl6gf0hx6XeU-5kD00KoRcDjIviSre8po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383158262800-qt614ljuf1f00mi3uo39oe974iacgnl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
