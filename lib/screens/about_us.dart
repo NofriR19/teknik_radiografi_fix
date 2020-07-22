@@ -4,7 +4,6 @@ import 'package:teknikradiografi/notifier/teknikradiografi_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'teknikradiografi_form.dart';
 
 class about_us extends StatelessWidget {
   @override
